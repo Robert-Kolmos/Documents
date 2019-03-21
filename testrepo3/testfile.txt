@@ -1,0 +1,7 @@
+make some changes to a test file
+<<<<<<< HEAD
+we are going to intentionally cause yet another small merge conflict
+=======
+we are going to intentionally cause another small merge conflict on this line
+>>>>>>> 635ae873dfc2fb451828a3a0a540d37bedb4bdae
+weeeea;dlkjfa;lksdjf
